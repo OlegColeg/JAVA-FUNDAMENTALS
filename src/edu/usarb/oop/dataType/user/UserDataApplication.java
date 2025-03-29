@@ -3,7 +3,7 @@ package edu.usarb.oop.dataType.user;
 import java.util.Scanner;
 
 public class UserDataApplication {
-    public static void main(String[] args) {
+    public static void mwain(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double number1, number2;
         double result = 0;
